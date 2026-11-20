@@ -1,8 +1,8 @@
 # Lab 12: Box Model, Cards and Scrolling
 
-**Name:** Priyanshu Yadav  
-**Roll No:** 2410303363  
-**Student ID:** BCS2024318  
+**Name:** Krrish Rohala 
+**Roll No:** 2410303237  
+**Student ID:** BCS2024322  
 **Course:** B.Tech CSE (3rd Year) - HTML & CSS Development Lab (BCS554)
 
 ## Aim
